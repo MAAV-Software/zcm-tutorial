@@ -3,7 +3,7 @@ Tutorial to learn ZCM and CMake
 
 Please run the install script in scripts/install-zcm.sh. You can do this with the command `./scripts/install-zcm.sh`
 
-Then follow the [zcm tutorial](https://sites.google.com/umich.edu/maav/team/software/zcmcmake?authuser=1).
+Then follow the [zcm tutorial](https://sites.google.com/umich.edu/maav/team/software/zcmcmake?authuser=1). You can find the starter code in the src directory.
 
 You are finished with the tutorial if you send "hello world" from one application to another.
 
