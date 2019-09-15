@@ -21,8 +21,8 @@ sudo apt-get install wget \
                 pkg-config \
                 build-essential \
                 libzmq3-dev \
-                default-jdk \
-                default-jre \
+                openjdk-8-jdk \
+                openjdk-8-jre \
                 python \
                 python-pip \
                 libelf-dev \
