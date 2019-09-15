@@ -39,7 +39,7 @@ sudo python -m pip install Cython
 ./waf configure --use-java --use-python --use-zmq --use-elf --use-third-party \
     --use-inproc --use-ipc --use-udpm --use-serial
 ./waf build
-./waf install
+sudo ./waf install
 
 # Set JAVA_HOME, PATH, LD_LIBRARY_PATH in .bashrc
 grep -q JAVA_HOME ~/.bashrc /etc/environment || \
